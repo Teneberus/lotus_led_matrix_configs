@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+    <panel size="200x32">
+      <content id="frontA">
+        <time>4</time>
+        <string>
+          <value>M13,12</value>
+          <font>t32n</font><spacing>1</spacing>
+          <position><x>1</x><y>3</y></position>
+        </string>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>65</x><y>-1</y></position>
+          <length>135</length>
+        </tape>
+        <string id="frontStrA">
+          <value>Ersatzverkehr</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><x>89</x><y>5</y></position>
+        </string>
+        <string>
+          <value>Prenzl.</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>63</x><y>17</y></position>
+        </string>
+        <string>
+          <value>Allee/Ostseest.</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>106</x><y>17</y></position>
+        </string>
+      </content>
+      <content cp="frontA">
+        <string ref="frontStrA">
+          <value>Replacement service</value>
+          <position><x>69</x><y>5</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content id="sideA">
+        <time>4</time>
+        <string>
+          <value>M13,12</value>
+          <font>t24</font><spacing>1</spacing>
+          <position><x>1</x><y>3</y></position>
+        </string>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>62</x><y>-1</y></position>
+          <length>136</length>
+        </tape>
+        <string id="sideStrA">
+          <value>Ersatzverkehr</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><x>83</x><y>4</y></position>
+        </string>
+        <string>
+          <value>Prenzl.</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>59</x><y>14</y></position>
+        </string>
+        <string>
+          <value>Allee/Ostseest.</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>102</x><y>14</y></position>
+        </string>
+      </content>
+      <content cp="sideA">
+        <string ref="sideStrA">
+          <value>Replacement service</value>
+          <position><x>64</x><y>4</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>M13,12</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>7</x><y>6</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

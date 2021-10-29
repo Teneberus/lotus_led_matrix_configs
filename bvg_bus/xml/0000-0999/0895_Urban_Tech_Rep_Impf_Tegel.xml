@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>Urban Tech Republic</value>
+          <font>t15</font>
+          <spacing>2</spacing>
+          <position>
+            <x>51</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>🏃🏃</value>
+          <font>s8</font>
+          <spacing>5</spacing>
+          <position>
+            <x>46</x>
+            <y>22</y>
+          </position>
+        </string>
+        <string>
+          <value>Impfzentrum Tegel</value>
+          <font>t12</font>
+          <spacing>1</spacing>
+          <position>
+            <x>70</x>
+            <y>20</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>Urban Tech Republic</value>
+          <font>t15</font>
+          <spacing>2</spacing>
+          <position>
+            <x>49</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>🏃🏃</value>
+          <font>s8</font>
+          <spacing>5</spacing>
+          <position>
+            <x>50</x>
+            <y>18</y>
+          </position>
+        </string>
+        <string>
+          <value>Impfzentrum Tegel</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position>
+            <x>75</x>
+            <y>18</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

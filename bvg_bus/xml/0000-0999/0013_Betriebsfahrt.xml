@@ -5,6 +5,7 @@
 
     <panel size="200x32">
       <content>
+        <inverted>full</inverted>
         <box>
           <outer><x1>0</x1><y1>0</y1><x2>200</x2><y2>32</y2></outer>
           <inner><x1>8</x1><y1>1</y1><x2>192</x2><y2>31</y2></inner>
@@ -27,6 +28,7 @@
 
     <panel size="192x26">
       <content>
+        <inverted>full</inverted>
         <box>
           <outer><x1>0</x1><y1>0</y1><x2>192</x2><y2>26</y2></outer>
           <inner><x1>8</x1><y1>1</y1><x2>184</x2><y2>25</y2></inner>
@@ -52,6 +54,7 @@
 
     <panel size="144x26">
       <content>
+        <inverted>full</inverted>
         <box>
           <outer><x1>0</x1><y1>0</y1><x2>144</x2><y2>26</y2></outer>
           <inner><x1>8</x1><y1>1</y1><x2>136</x2><y2>25</y2></inner>
@@ -71,6 +74,24 @@
           <font>l32</font>
           <position><x>140</x><y>0</y></position>
           <area><x1>140</x1><y1>0</y1><x2>152</x2><y2>26</y2></area>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="48x26">
+      <content>
+        <inverted>full</inverted>
+        <string>
+          <value>Betriebs-</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position><x>0</x><y>3</y></position>
+        </string>
+        <string>
+          <value>fahrt</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position><x>10</x><y>15</y></position>
         </string>
       </content>
     </panel>

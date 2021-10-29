@@ -1,0 +1,11 @@
+<terminus>
+  <simple>
+    <panel>
+      <content>
+        <string1><value>Tegel</value></string1>
+        <string2><value>Urban Tech Republic</value></string2>
+        <smallerstring>1</smallerstring>
+      </content>
+    </panel>
+  </simple>
+</terminus>
