@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>Olympiastadion</value>
+          <font>t19</font>
+          <spacing>1</spacing>
+          <position>
+            <x>41</x>
+            <y>7</y>
+          </position>
+        </string>
+        <string>
+          <value>🏟</value>
+          <font>s24</font>
+          <position>
+            <x>159</x>
+            <y>4</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>Olympiastadion</value>
+          <font>t15</font>
+          <spacing>2</spacing>
+          <position>
+            <x>47</x>
+            <y>6</y>
+          </position>
+        </string>
+        <string>
+          <value>🏟</value>
+          <font>s24</font>
+          <position>
+            <x>151</x>
+            <y>1</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="144x26">
+      <content>
+        <string>
+          <value>Olympia-</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>46</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>stadion</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>49</x>
+            <y>15</y>
+          </position>
+        </string>
+        <string>
+          <value>🏟</value>
+          <font>s24</font>
+          <position>
+            <x>103</x>
+            <y>1</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

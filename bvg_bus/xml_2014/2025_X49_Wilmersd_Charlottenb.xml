@@ -1,0 +1,64 @@
+<terminus>
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>X49</value><font>l32</value><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>🚇</value><font>s12</value>
+          <position><x>56</x><y>1</y></position>
+        </string>
+        <string>
+          <value>Wilmersdorfer Str./</value><font>t15</value><spacing>1</spacing>
+          <position><x>74</x><y>0</y></position>
+        </string>
+        <string>
+          <value>🚈</value><font>s16</value>
+          <position><x>63</x><y>16</y></position>
+        </string>
+        <string>
+          <value>Charlottenburg</value><font>t15</value><spacing>1</spacing>
+          <position><x>83</x><y>17</y></position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>X49</value><font>l26</value><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>🚇</value><font>s12</value>
+          <position><x>56</x><y>0</y></position>
+        </string>
+        <string>
+          <value>Wilmersdorfer Str./</value><font>t8</value><spacing>1</spacing>
+          <position><x>74</x><y>3</y></position>
+        </string>
+        <string>
+          <value>🚈</value><font>s16</value>
+          <position><x>66</x><y>11</y></position>
+        </string>
+        <string>
+          <value>Charlottenburg</value><font>t8</value><spacing>1</spacing>
+          <position><x>86</x><y>16</y></position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>X49</value><font>l26</value><spacing>1</spacing>
+          <position><x>5</x><y>0</y></position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

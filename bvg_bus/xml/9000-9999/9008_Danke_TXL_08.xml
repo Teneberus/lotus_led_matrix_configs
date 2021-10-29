@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <time>8</time>
+        <string>
+          <value>🛪</value>
+          <font>s32</font>
+          <position>
+            <x>0</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>Danke TXL</value>
+          <font>t24</font>
+          <spacing>1</spacing>
+          <position>
+            <x>43</x>
+            <y>7</y>
+          </position>
+        </string>
+        <string>
+          <value>❤</value>
+          <font>l32</font>
+          <position>
+            <x>168</x>
+            <y>-1</y>
+          </position>
+        </string>
+      </content>
+      <content>
+        <time>8</time>
+        <string>
+          <value>Abschied vom Flughafen Tegel</value>
+          <font>t15</font>
+          <spacing>1</spacing>
+          <position>
+            <x>11</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>🛪</value>
+          <font>s12</font>
+          <position>
+            <x>13</x>
+            <y>19</y>
+          </position>
+        </string>
+        <string>
+          <value>8. November 2020</value>
+          <font>t15</font>
+          <spacing>2</spacing>
+          <position>
+            <x>39</x>
+            <y>18</y>
+          </position>
+        </string>
+        <string>
+          <value>TXL</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position>
+            <x>170</x>
+            <y>21</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <time>8</time>
+        <string>
+          <value>🛪</value>
+          <font>s26</font>
+          <position>
+            <x>1</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>Danke TXL</value>
+          <font>t24</font>
+          <spacing>1</spacing>
+          <position>
+            <x>41</x>
+            <y>3</y>
+          </position>
+        </string>
+        <string>
+          <value>❤</value>
+          <font>l26</font>
+          <position>
+            <x>166</x>
+            <y>0</y>
+          </position>
+        </string>
+      </content>
+      <content>
+        <time>8</time>
+        <string>
+          <value>Abschied vom Flughafen Tegel</value>
+          <font>t12</font>
+          <spacing>1</spacing>
+          <position>
+            <x>7</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>🛪</value>
+          <font>s12</font>
+          <position>
+            <x>4</x>
+            <y>14</y>
+          </position>
+        </string>
+        <string>
+          <value>8. November 2020</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>37</x>
+            <y>15</y>
+          </position>
+        </string>
+        <string>
+          <value>TXL</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position>
+            <x>172</x>
+            <y>18</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>Danke</value>
+          <font>t12</font>
+          <spacing>1</spacing>
+          <position>
+            <x>6</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>TXL</value>
+          <font>t15</font>
+          <spacing>3</spacing>
+          <position>
+            <x>11</x>
+            <y>12</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

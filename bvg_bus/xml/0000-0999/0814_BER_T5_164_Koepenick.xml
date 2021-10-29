@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>🛪</value>
+          <font>s12</font>
+          <position>
+            <x>44</x>
+            <y>1</y>
+          </position>
+        </string>
+        <string>
+          <value>Flughafen BER T5</value>
+          <font>t19</font>
+          <spacing>1</spacing>
+          <position>
+            <x>61</x>
+            <y>-1</y>
+          </position>
+        </string>
+        <string>
+          <value>➞ 164 S Köpenick</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>63</x>
+            <y>20</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>🛪</value>
+          <font>s12</font>
+          <position>
+            <x>44</x>
+            <y>1</y>
+          </position>
+        </string>
+        <string>
+          <value>Flughafen BER T5</value>
+          <font>t15</font>
+          <spacing>3</spacing>
+          <position>
+            <x>56</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>➞ 164 S Köpenick</value>
+          <font>t8</font>
+          <spacing>2</spacing>
+          <position>
+            <x>75</x>
+            <y>18</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="144x26">
+      <content>
+        <string>
+          <value>🛪</value>
+          <font>s12</font>
+          <position>
+            <x>48</x>
+            <y>1</y>
+          </position>
+        </string>
+        <string>
+          <value>Flugh. BER T5</value>
+          <font>t15</font>
+          <spacing>1</spacing>
+          <position>
+            <x>60</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>➞ 164 S Köpenick</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position>
+            <x>50</x>
+            <y>18</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

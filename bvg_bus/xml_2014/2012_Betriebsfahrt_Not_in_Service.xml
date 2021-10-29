@@ -1,0 +1,71 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content id="2012_contentA">
+        <time>3</time>
+        <inverted>full</inverted>
+        <string>
+          <value>❤</value>
+          <font>l32</font>
+          <position>
+            <x>5</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string id="2012_strA">
+          <value>Betriebsfahrt</value>
+          <font>t32</font>
+          <spacing>2</spacing>
+          <position>
+            <x>44</x>
+            <y>3</y>
+          </position>
+        </string>
+      </content>
+      <content cp="2012_contentA">
+        <string ref="2012_strA"><value>Not in service</value><position><x>42</x></position></string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content id="2012_contentB">
+        <time>3</time>
+        <inverted>full</inverted>
+        <string>
+          <value>❤</value>
+          <font>l26</font>
+          <position>
+            <x>5</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string id="2012_strB">
+          <value>Betriebsfahrt</value>
+          <font>t32n</font>
+          <spacing>2</spacing>
+          <position>
+            <x>44</x>
+            <y>0</y>
+          </position>
+        </string>
+      </content>
+      <content cp="2012_contentB">
+        <string ref="2012_strB"><value>Not in Service</value><position><x>42</x></position></string>
+      </content>
+    </panel>
+
+    <panel size="48x26">
+      <content>
+        <inverted>full</inverted>
+        <string>
+          <value>❤</value>
+          <font>l26</font>
+          <position>
+            <x>11</x>
+            <y>0</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

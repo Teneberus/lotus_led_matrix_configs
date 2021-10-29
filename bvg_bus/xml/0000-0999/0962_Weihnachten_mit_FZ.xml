@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>Weihnachten mit</value>
+          <font>t19</font>
+          <spacing>4</spacing>
+          <position>
+            <x>16</x>
+            <y>-1</y>
+          </position>
+        </string>
+        <string>
+          <value>Frank Zander</value>
+          <font>t19</font>
+          <spacing>4</spacing>
+          <position>
+            <x>33</x>
+            <y>17</y>
+          </position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position>
+            <x>1</x>
+            <y>13</y>
+          </position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position>
+            <x>184</x>
+            <y>13</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>Weihnachten mit</value>
+          <font>t12</font>
+          <spacing>5</spacing>
+          <position>
+            <x>21</x>
+            <y>-1</y>
+          </position>
+        </string>
+        <string>
+          <value>Frank Zander</value>
+          <font>t12</font>
+          <spacing>5</spacing>
+          <position>
+            <x>34</x>
+            <y>14</y>
+          </position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position>
+            <x>1</x>
+            <y>7</y>
+          </position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position>
+            <x>176</x>
+            <y>7</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="144x26">
+      <content>
+        <string>
+          <value>Weihnachten mit</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>18</x>
+            <y>-1</y>
+          </position>
+        </string>
+        <string>
+          <value>Frank Zander</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>26</x>
+            <y>14</y>
+          </position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position>
+            <x>1</x>
+            <y>7</y>
+          </position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position>
+            <x>128</x>
+            <y>7</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

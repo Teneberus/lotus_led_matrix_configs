@@ -1,0 +1,56 @@
+<terminus>
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>M85</value><font>l32</value><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>🚈</value><font>s16</font>
+          <position><x>47</x><y>0</y></position>
+        </string>
+        <string>
+          <value>Lichterfelde Süd</value><font>t15</value><spacing>3</spacing>
+          <position><x>67</x><y>1</y></position>
+        </string>
+        <string>
+          <value>via Hindenburgdamm</value><font>t8</value><spacing>2</spacing>
+          <position><x>59</x><y>23</y></position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>M85</value><font>l26</value><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>🚈</value><font>s16</font>
+          <position><x>50</x><y>-1</y></position>
+        </string>
+        <string>
+          <value>Lichterfelde Süd</value><font>t15</value><spacing>2</spacing>
+          <position><x>70</x><y>0</y></position>
+        </string>
+        <string>
+          <value>via Hindenburgdamm</value><font>t8</value><spacing>2</spacing>
+          <position><x>57</x><y>18</y></position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>M85</value><font>l26</value><spacing>2</spacing>
+          <position><x>3</x><y>0</y></position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

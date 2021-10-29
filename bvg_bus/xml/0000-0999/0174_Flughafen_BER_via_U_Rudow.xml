@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>✈</value>
+          <font>s19</font>
+          <position>
+            <x>45</x>
+            <y>7</y>
+          </position>
+        </string>
+        <string>
+          <value>Flughafen</value>
+          <font>t19</font>
+          <spacing>2</spacing>
+          <position>
+            <x>70</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>via U Rudow</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>70</x>
+            <y>21</y>
+          </position>
+        </string>
+        <string>
+          <value>BER</value>
+          <font>l26</font>
+          <spacing>1</spacing>
+          <position>
+            <x>157</x>
+            <y>3</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>✈</value>
+          <font>s19</font>
+          <position>
+            <x>47</x>
+            <y>4</y>
+          </position>
+        </string>
+        <string>
+          <value>Flughafen</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>72</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>via U Rudow</value>
+          <font>t12</font>
+          <spacing>1</spacing>
+          <position>
+            <x>71</x>
+            <y>15</y>
+          </position>
+        </string>
+        <string>
+          <value>BER</value>
+          <font>t24</font>
+          <spacing>1</spacing>
+          <position>
+            <x>147</x>
+            <y>4</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="144x26">
+      <content>
+        <string>
+          <value>✈</value>
+          <font>s19</font>
+          <position>
+            <x>47</x>
+            <y>4</y>
+          </position>
+        </string>
+        <string>
+          <value>Flugh.</value>
+          <font>t12</font>
+          <spacing>2</spacing>
+          <position>
+            <x>70</x>
+            <y>2</y>
+          </position>
+        </string>
+        <string>
+          <value>BER</value>
+          <font>t19</font>
+          <spacing>1</spacing>
+          <position>
+            <x>112</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>via U Rudow</value>
+          <font>t8</font>
+          <spacing>1</spacing>
+          <position>
+            <x>77</x>
+            <y>19</y>
+          </position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

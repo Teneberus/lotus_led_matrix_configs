@@ -1,0 +1,56 @@
+<terminus>
+  <complex>
+
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>N5</value><font>l32w</value><spacing>1</spacing>
+          <position><x>2</x><y>0</y></position>
+        </string>
+        <string>
+          <value>Riesaer Str.</value><font>t19</value><spacing>2</spacing>
+          <position><x>71</x><y>1</y></position>
+        </string>
+        <string>
+          <value>via    Hönow</value><font>t8</value><spacing>2</spacing>
+          <position><x>80</x><y>23</y></position>
+        </string>
+        <string>
+          <value>🚇</value><font>s8</value>
+          <position><x>101</x><y>23</y></position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>N5</value><font>l26</value><spacing>1</spacing>
+          <position><x>3</x><y>0</y></position>
+        </string>
+        <string>
+          <value>Riesaer Str.</value><font>t15</value><spacing>2</spacing>
+          <position><x>77</x><y>0</y></position>
+        </string>
+        <string>
+          <value>via    Hönow</value><font>t8</value><spacing>2</spacing>
+          <position><x>80</x><y>18</y></position>
+        </string>
+        <string>
+          <value>🚇</value><font>s8</value>
+          <position><x>101</x><y>18</y></position>
+        </string>
+      </content>
+    </panel>
+
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>N5</value><font>l26</value><spacing>2</spacing>
+          <position><x>11</x><y>0</y></position>
+        </string>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>

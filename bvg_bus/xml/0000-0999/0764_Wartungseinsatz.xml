@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+  <complex>
+
+    <panel size="200x32">
+      <content id="frontA">
+        <time>2</time>
+        <string>
+          <value>Wartungseinsatz</value>
+          <font>t15</font>
+          <spacing>6</spacing>
+          <position>
+            <x>15</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>nicht einsteigen</value>
+          <font>t15</font>
+          <spacing>5</spacing>
+          <position>
+            <x>23</x>
+            <y>17</y>
+          </position>
+        </string>
+      </content>
+      <content cp="frontA">
+        <inverted>full</inverted>
+      </content>
+    </panel>
+
+    <panel size="192x26">
+      <content id="sideA">
+        <time>2</time>
+        <string>
+          <value>Wartungseinsatz</value>
+          <font>t12</font>
+          <spacing>4</spacing>
+          <position>
+            <x>25</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>nicht einsteigen</value>
+          <font>t12</font>
+          <spacing>4</spacing>
+          <position>
+            <x>26</x>
+            <y>14</y>
+          </position>
+        </string>
+      </content>
+      <content cp="sideA">
+        <inverted>full</inverted>
+      </content>
+    </panel>
+
+    <panel size="144x26">
+      <content id="heckA">
+        <time>2</time>
+        <string>
+          <value>Wartungseinsatz</value>
+          <font>t12</font>
+          <spacing>3</spacing>
+          <position>
+            <x>8</x>
+            <y>0</y>
+          </position>
+        </string>
+        <string>
+          <value>nicht einsteigen</value>
+          <font>t12</font>
+          <spacing>3</spacing>
+          <position>
+            <x>9</x>
+            <y>14</y>
+          </position>
+        </string>
+      </content>
+      <content cp="heckA">
+        <inverted>full</inverted>
+      </content>
+    </panel>
+
+  </complex>
+</terminus>
