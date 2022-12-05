@@ -15,9 +15,9 @@
 
     <panel size="200x32">
       <content id="frontA">
-        <time>2</time>
+        <time>4</time>
         <string id="tasseFront">
-          <value>☕</value>
+          <value>⛾</value>
           <font>s24</font>
           <position>
             <x>60</x>
@@ -25,7 +25,7 @@
           </position>
         </string>
         <string id="strFront">
-          <value>Pause</value>
+          <value>Break</value>
           <font>t32n</font>
           <spacing>3</spacing>
           <position>
@@ -36,29 +36,19 @@
       </content>
       <content cp="frontA">
         <string ref="tasseFront">
-          <value>⛾</value>
-        </string>
-      </content>
-      <content cp="frontA">
-        <string ref="strFront">
-          <value>Break</value>
-        </string>
-      </content>
-      <content cp="frontA">
-        <string ref="tasseFront">
-          <value>⛾</value>
+          <value>☕</value>
         </string>
         <string ref="strFront">
-          <value>Break</value>
+          <value>Pause</value>
         </string>
       </content>
     </panel>
 
     <panel size="192x26">
       <content id="sideA">
-        <time>2</time>
+        <time>4</time>
         <string id="tasseSide">
-          <value>☕</value>
+          <value>⛾</value>
           <font>s24</font>
           <position>
             <x>57</x>
@@ -66,7 +56,7 @@
           </position>
         </string>
         <string id="strSide">
-          <value>Pause</value>
+          <value>Break</value>
           <font>t24</font>
           <spacing>3</spacing>
           <position>
@@ -77,29 +67,19 @@
       </content>
       <content cp="sideA">
         <string ref="tasseSide">
-          <value>⛾</value>
-        </string>
-      </content>
-      <content cp="sideA">
-        <string ref="strSide">
-          <value>Break</value>
-        </string>
-      </content>
-      <content cp="sideA">
-        <string ref="tasseSide">
-          <value>⛾</value>
+          <value>☕</value>
         </string>
         <string ref="strSide">
-          <value>Break</value>
+          <value>Pause</value>
         </string>
       </content>
     </panel>
 
     <panel size="144x26">
       <content id="heckA">
-        <time>2</time>
+        <time>4</time>
         <string id="tasseHeck">
-          <value>☕</value>
+          <value>⛾</value>
           <font>s24</font>
           <position>
             <x>47</x>
@@ -107,7 +87,7 @@
           </position>
         </string>
         <string id="strHeck">
-          <value>Pause</value>
+          <value>Break</value>
           <font>t24</font>
           <spacing>2</spacing>
           <position>
@@ -118,20 +98,10 @@
       </content>
       <content cp="heckA">
         <string ref="tasseHeck">
-          <value>⛾</value>
-        </string>
-      </content>
-      <content cp="heckA">
-        <string ref="strHeck">
-          <value>Break</value>
-        </string>
-      </content>
-      <content cp="heckA">
-        <string ref="tasseHeck">
-          <value>⛾</value>
+          <value>☕</value>
         </string>
         <string ref="strHeck">
-          <value>Break</value>
+          <value>Pause</value>
         </string>
       </content>
     </panel>

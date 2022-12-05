@@ -1,0 +1,14 @@
+<terminus>
+  <simple>
+    <master>
+      <content>
+        <string1>
+          <value>S+U Zoologischer Garten</value>
+        </string1>
+        <string2>
+          <value>via Hauptbahnhof</value>
+        </string2>
+      </content>
+    </master>
+  </simple>
+</terminus>

@@ -1,0 +1,24 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>S+U Alexanderplatz</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><halign>center</halign><valign>middle</valign></position>
+          <area><x1>42</x1><y1>0</y1><x2>200</x2><y2>32</y2></area>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>S+U Alexanderplatz</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><halign>center</halign><valign>middle</valign></position>
+          <area><x1>42</x1><y1>0</y1><x2>192</x2><y2>26</y2></area>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

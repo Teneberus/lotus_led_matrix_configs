@@ -1,0 +1,36 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>S+U Alexanderplatz</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>42</x1><y1>0</y1><x2>200</x2><y2>19</y2></area>
+        </string>
+        <string>
+          <value>via Reichstag</value>
+          <font>t12</font><spacing>2</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>42</x1><y1>20</y1><x2>200</x2><y2>32</y2></area>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>S+U Alexanderplatz</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>45</x1><y1>0</y1><x2>192</x2><y2>15</y2></area>
+        </string>
+        <string>
+          <value>via Reichstag</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>45</x1><y1>18</y1><x2>192</x2><y2>26</y2></area>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>
