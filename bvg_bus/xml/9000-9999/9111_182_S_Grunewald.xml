@@ -4,15 +4,15 @@
     <panel size="200x32">
       <content>
         <string>
-          <value>182</value><font>l32</value><spacing>2</spacing>
+          <value>182</value><font>l32</font><spacing>2</spacing>
           <position><x>2</x><y>0</y></position>
         </string>
         <string>
-          <value>🚈</value><font>s24</value>
+          <value>🚈</value><font>s24</font>
           <position><x>50</x><y>3</y></position>
         </string>
         <string>
-          <value>Grunewald</value><font>t24</value><spacing>2</spacing>
+          <value>Grunewald</value><font>t24</font><spacing>2</spacing>
           <position><x>78</x><y>7</y></position>
         </string>
       </content>
@@ -21,15 +21,15 @@
     <panel size="192x26">
       <content>
         <string>
-          <value>182</value><font>l26</value><spacing>4</spacing>
+          <value>182</value><font>l26</font><spacing>4</spacing>
           <position><x>1</x><y>0</y></position>
         </string>
         <string>
-          <value>🚈</value><font>s24</value>
+          <value>🚈</value><font>s24</font>
           <position><x>46</x><y>1</y></position>
         </string>
         <string>
-          <value>Grunewald</value><font>t24</value><spacing>2</spacing>
+          <value>Grunewald</value><font>t24</font><spacing>2</spacing>
           <position><x>73</x><y>4</y></position>
         </string>
       </content>
@@ -38,7 +38,7 @@
     <panel size="48x26">
       <content>
         <string>
-          <value>182</value><font>l26</value><spacing>4</spacing>
+          <value>182</value><font>l26</font><spacing>4</spacing>
           <position><x>3</x><y>0</y></position>
         </string>
       </content>

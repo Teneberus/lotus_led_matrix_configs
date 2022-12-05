@@ -4,15 +4,15 @@
     <panel size="200x32">
       <content>
         <string>
-          <value>166</value><font>l32</value><spacing>1</spacing>
+          <value>166</value><font>l32</font><spacing>1</spacing>
           <position><x>1</x><y>0</y></position>
         </string>
         <string>
-          <value>🚇</value><font>s24</value>
+          <value>🚇</value><font>s24</font>
           <position><x>46</x><y>4</y></position>
         </string>
         <string>
-          <value>Boddinstr.</value><font>t32n</value><spacing>2</spacing>
+          <value>Boddinstr.</value><font>t32n</font><spacing>2</spacing>
           <position><x>79</x><y>3</y></position>
         </string>
       </content>
@@ -21,15 +21,15 @@
     <panel size="192x26">
       <content>
         <string>
-          <value>166</value><font>l26</value><spacing>1</spacing>
+          <value>166</value><font>l26</font><spacing>1</spacing>
           <position><x>1</x><y>0</y></position>
         </string>
         <string>
-          <value>🚇</value><font>s24</value>
+          <value>🚇</value><font>s24</font>
           <position><x>49</x><y>1</y></position>
         </string>
         <string>
-          <value>Boddinstr.</value><font>t24</value><spacing>2</spacing>
+          <value>Boddinstr.</value><font>t24</font><spacing>2</spacing>
           <position><x>79</x><y>3</y></position>
         </string>
       </content>
@@ -38,7 +38,7 @@
     <panel size="48x26">
       <content>
         <string>
-          <value>166</value><font>l26</value><spacing>1</spacing>
+          <value>166</value><font>l26</font><spacing>1</spacing>
           <position><x>4</x><y>0</y></position>
         </string>
       </content>

@@ -6,19 +6,19 @@
         <time>4</time>
         <tape><size>4</size><spacing>4</spacing><position><x>1</x><y>0</y></position><length>214</length></tape>
         <string>
-          <value>M13</value><font>l26</value><spacing>1</spacing>
+          <value>M13</value><font>l26</font><spacing>1</spacing>
           <position><x>2</x><y>6</y></position>
         </string>
         <string>
-          <value>Ersatzverkehr</value><font>t8</value><spacing>1</spacing>
+          <value>Ersatzverkehr</value><font>t8</font><spacing>1</spacing>
           <position><x>82</x><y>6</y></position>
         </string>
         <string>
-          <value>🚈</value><font>s16</value>
+          <value>🚈</value><font>s16</font>
           <position><x>55</x><y>16</y></position>
         </string>
         <string>
-          <value>Warschauer Str.</value><font>t19</value><spacing>1</spacing>
+          <value>Warschauer Str.</value><font>t19</font><spacing>1</spacing>
           <position><x>73</x><y>17</y></position>
         </string>
       </content>
@@ -26,15 +26,15 @@
         <time>4</time>
         <tape><size>4</size><spacing>4</spacing><position><x>1</x><y>0</y></position><length>214</length></tape>
         <string>
-          <value>50</value><font>l26</value><spacing>1</spacing>
+          <value>50</value><font>l26</font><spacing>1</spacing>
           <position><x>4</x><y>6</y></position>
         </string>
         <string>
-          <value>Replacement service</value><font>t8</value><spacing>1</spacing>
+          <value>Replacement service</value><font>t8</font><spacing>1</spacing>
           <position><x>69</x><y>6</y></position>
         </string>
         <string>
-          <value>Guyotstr.</value><font>t19</value><spacing>1</spacing>
+          <value>Guyotstr.</value><font>t19</font><spacing>1</spacing>
           <position><x>85</x><y>17</y></position>
         </string>
       </content>
@@ -45,19 +45,19 @@
         <time>4</time>
         <tape><size>3</size><spacing>4</spacing><position><x>45</x><y>0</y></position><length>161</length></tape>
         <string>
-          <value>M13</value><font>l26</value><spacing>1</spacing>
+          <value>M13</value><font>l26</font><spacing>1</spacing>
           <position><x>2</x><y>0</y></position>
         </string>
         <string>
-          <value>Ersatzverkehr</value><font>t8</value><spacing>1</spacing>
+          <value>Ersatzverkehr</value><font>t8</font><spacing>1</spacing>
           <position><x>73</x><y>4</y></position>
         </string>
         <string>
-          <value>🚈</value><font>s16</value>
+          <value>🚈</value><font>s16</font>
           <position><x>54</x><y>11</y></position>
         </string>
         <string>
-          <value>Warschauer Str.</value><font>t12</value><spacing>1</spacing>
+          <value>Warschauer Str.</value><font>t12</font><spacing>1</spacing>
           <position><x>73</x><y>14</y></position>
         </string>
       </content>
@@ -65,15 +65,15 @@
         <time>4</time>
         <tape><size>3</size><spacing>4</spacing><position><x>39</x><y>0</y></position><length>167</length></tape>
         <string>
-          <value>50</value><font>l26</value><spacing>1</spacing>
+          <value>50</value><font>l26</font><spacing>1</spacing>
           <position><x>9</x><y>0</y></position>
         </string>
         <string>
-          <value>Replacement service</value><font>t8</value><spacing>1</spacing>
+          <value>Replacement service</value><font>t8</font><spacing>1</spacing>
           <position><x>58</x><y>4</y></position>
         </string>
         <string>
-          <value>Guyotstr.</value><font>t12</value><spacing>1</spacing>
+          <value>Guyotstr.</value><font>t12</font><spacing>1</spacing>
           <position><x>83</x><y>14</y></position>
         </string>
       </content>
@@ -83,14 +83,14 @@
       <content>
         <time>4</time>
         <string>
-          <value>M13</value><font>l26</value><spacing>1</spacing>
+          <value>M13</value><font>l26</font><spacing>1</spacing>
           <position><x>5</x><y>0</y></position>
         </string>
       </content>
       <content>
         <time>4</time>
         <string>
-          <value>50</value><font>l26</value><spacing>1</spacing>
+          <value>50</value><font>l26</font><spacing>1</spacing>
           <position><x>11</x><y>0</y></position>
         </string>
       </content>

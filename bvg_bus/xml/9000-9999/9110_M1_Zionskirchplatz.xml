@@ -4,20 +4,20 @@
     <panel size="200x32">
       <content>
         <string>
-          <value>M1</value><font>l32w</value><spacing>6</spacing>
+          <value>M1</value><font>l32w</font><spacing>6</spacing>
           <position><x>1</x><y>0</y></position>
         </string>
         <tape><size>4</size><spacing>4</spacing><position><x>42</x><y>0</y></position><length>172</length></tape>
         <string>
-          <value>Zionskirchplatz</value><font>t12</value><spacing>1</spacing>
+          <value>Zionskirchplatz</value><font>t12</font><spacing>1</spacing>
           <position><x>74</x><y>6</y></position>
         </string>
         <string>
-          <value>🏃</value><font>s12</value>
+          <value>🏃</value><font>s12</font>
           <position><x>56</x><y>20</y></position>
         </string>
         <string>
-          <value>Tram M1 Schillerstr.</value><font>t8</value><spacing>1</spacing>
+          <value>Tram M1 Schillerstr.</value><font>t8</font><spacing>1</spacing>
           <position><x>68</x><y>23</y></position>
         </string>
       </content>
@@ -26,20 +26,20 @@
     <panel size="192x26">
       <content>
         <string>
-          <value>M1</value><font>l26</value><spacing>1</spacing>
+          <value>M1</value><font>l26</font><spacing>1</spacing>
           <position><x>2</x><y>0</y></position>
         </string>
         <tape><size>4</size><spacing>4</spacing><position><x>42</x><y>0</y></position><length>164</length></tape>
         <string>
-          <value>Zionskirchplatz</value><font>t12</value><spacing>1</spacing>
+          <value>Zionskirchplatz</value><font>t12</font><spacing>1</spacing>
           <position><x>72</x><y>6</y></position>
         </string>
         <string>
-          <value>🏃</value><font>s8</value>
+          <value>🏃</value><font>s8</font>
           <position><x>56</x><y>18</y></position>
         </string>
         <string>
-          <value>Tram M1 Schillerstr.</value><font>t8</value><spacing>1</spacing>
+          <value>Tram M1 Schillerstr.</value><font>t8</font><spacing>1</spacing>
           <position><x>66</x><y>19</y></position>
         </string>
       </content>
@@ -48,7 +48,7 @@
     <panel size="48x26">
       <content>
         <string>
-          <value>M1</value><font>l26</value><spacing>3</spacing>
+          <value>M1</value><font>l26</font><spacing>3</spacing>
           <position><x>11</x><y>0</y></position>
         </string>
       </content>
