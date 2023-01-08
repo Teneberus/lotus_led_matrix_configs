@@ -10,7 +10,7 @@
 | LED White (32x200 8,1mm) [Berlin Bus 2018] | TERMINUSDISPLAY_LARGE | _2018 | 26x48 white | 26x192 white | 26x192 white | 26x144 white | |
 | LED Amber (24x196 9,6mm) | TERMINUSDISPLAY_LARGE | _24x196a | 16x28 amber | 16x112 amber | 16x112 amber | 16x112 amber | |
 | LED Amber (19x140 13,4mm) | TERMINUSDISPLAY_LARGE | _19x140a | 19x28 amber | 19x112 amber | 19x140 amber | 19x112 amber | |
-| LED Amber (16x128 15mm) | TERMINUSDISPLAY_LARGE | _16x128a | 16x28 amber | 16x112 amber | 16x112 amber | 16x112 amber | |
+| LED Amber (16x126 15mm) | TERMINUSDISPLAY_LARGE | _16x126a | 16x28 amber | 16x112 amber | 16x112 amber | 16x112 amber | |
 | LED Amber (16x112 15mm) | TERMINUSDISPLAY_LARGE | _16x112a | 16x28 amber | 16x112 amber | 16x112 amber | 16x112 amber | |
 
 ## Available front panels (Tram, Subway)
