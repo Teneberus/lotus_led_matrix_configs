@@ -1,0 +1,54 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content id="frontA">
+        <time>4</time>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>42</x><y>-1</y></position>
+          <length>157</length>
+        </tape>
+        <string id="frontStrA">
+          <value>Replacement service</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>42</x1><y1>5</y1><x2>199</x2><y2>13</y2></area>
+        </string>
+        <string>
+          <value>Landsbg. Al./Petersb. Str.</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>42</x1><y1>17</y1><x2>199</x2><y2>32</y2></area>
+        </string>
+      </content>
+      <content cp="frontA">
+        <string ref="frontStrA"><value>Ersatzverkehr</value></string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content id="sideA">
+        <time>4</time>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>44</x><y>-1</y></position>
+          <length>149</length>
+        </tape>
+        <string id="sideStrA">
+          <value>Replacement service</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>44</x1><y1>4</y1><x2>193</x2><y2>12</y2></area>
+        </string>
+        <string>
+          <value>Landsbg. Al./Petersb. S.</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>44</x1><y1>14</y1><x2>192</x2><y2>26</y2></area>
+        </string>
+      </content>
+      <content cp="sideA">
+        <string ref="sideStrA"><value>Ersatzverkehr</value></string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

@@ -1,0 +1,46 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>Feuerwehr</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><x>71</x><y>0</y></position>
+        </string>
+        <string>
+          <value>Evakuierungsbus</value>
+          <font>t24</font><spacing>2</spacing>
+          <position><x>12</x><y>8</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>Feuerwehr</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>68</x><y>0</y></position>
+        </string>
+        <string>
+          <value>Evakuierungsbus</value>
+          <font>t15</font><spacing>3</spacing>
+          <position><x>32</x><y>11</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>Evakuie-</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>2</x><y>5</y></position>
+        </string>
+        <string>
+          <value>rungsbus</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>0</x><y>16</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

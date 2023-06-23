@@ -1,0 +1,32 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>S Köpenick</value>
+          <font>t15</font><spacing>2</spacing>
+          <position><x>84</x><y>0</y></position>
+        </string>
+        <string>
+          <value>-> 164 Flughafen BER T5</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>48</x><y>20</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>S Köpenick</value>
+          <font>t15</font><spacing>2</spacing>
+          <position><x>82</x><y>0</y></position>
+        </string>
+        <string>
+          <value>-> 164 Flughafen BER T5</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><x>44</x><y>18</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

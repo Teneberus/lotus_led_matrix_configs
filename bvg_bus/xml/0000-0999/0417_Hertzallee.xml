@@ -1,18 +1,19 @@
-<?xml version="1.0"?>
-
-<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+<terminus>
   <complex>
 
     <panel size="200x32">
       <content>
         <string>
+          <value>Charlottenburg</value>
+          <font>t12</font><spacing>3</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>41</x1><y1>0</y1><x2>200</x2><y2>12</y2></area>
+        </string>
+        <string>
           <value>Hertzallee</value>
-          <font>t24</font>
-          <spacing>2</spacing>
-          <position>
-            <x>69</x>
-            <y>6</y>
-          </position>
+          <font>t24</font><spacing>3</spacing>
+          <position><halign>center</halign><valign>bottom</valign></position>
+          <area><x1>41</x1><y1>12</y1><x2>200</x2><y2>32</y2></area>
         </string>
       </content>
     </panel>
@@ -20,27 +21,16 @@
     <panel size="192x26">
       <content>
         <string>
-          <value>Hertzallee</value>
-          <font>t24</font>
-          <spacing>2</spacing>
-          <position>
-            <x>67</x>
-            <y>3</y>
-          </position>
+          <value>Charlottenburg</value>
+          <font>t8</font><spacing>3</spacing>
+          <position><halign>center</halign><valign>top</valign></position>
+          <area><x1>45</x1><y1>0</y1><x2>192</x2><y2>8</y2></area>
         </string>
-      </content>
-    </panel>
-
-    <panel size="144x26">
-      <content>
         <string>
           <value>Hertzallee</value>
-          <font>t24</font>
-          <spacing>1</spacing>
-          <position>
-            <x>48</x>
-            <y>3</y>
-          </position>
+          <font>t19</font><spacing>3</spacing>
+          <position><halign>center</halign><valign>bottom</valign></position>
+          <area><x1>45</x1><y1>8</y1><x2>192</x2><y2>26</y2></area>
         </string>
       </content>
     </panel>

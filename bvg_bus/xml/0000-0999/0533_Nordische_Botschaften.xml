@@ -1,0 +1,30 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>Nordische</value>
+          <font>t15</font><spacing>3</spacing>
+          <area><x1>41</x1><y1>0</y1><x2>200</x2><y2>16</y2></area>
+          <position><valign>top</valign><halign>center</halign></position>
+        </string>
+        <string>
+          <value>Botschaften</value>
+          <font>t15</font><spacing>3</spacing>
+          <area><x1>42</x1><y1>16</y1><x2>200</x2><y2>32</y2></area>
+          <position><valign>bottom</valign><halign>center</halign></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>Nordische Botschaften</value>
+          <font>t15</font><spacing>1</spacing>
+          <area><x1>45</x1><y1>0</y1><x2>192</x2><y2>26</y2></area>
+          <position><valign>middle</valign><halign>center</halign></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

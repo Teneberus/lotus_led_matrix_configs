@@ -1,0 +1,56 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <string>
+          <value>Frohe Weihnachten</value>
+          <font>t19</font><spacing>2</spacing>
+          <position><x>20</x><y>7</y></position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position><x>2</x><y>3</y></position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position><x>184</x><y>12</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <string>
+          <value>Frohe Weihnachten</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><x>22</x><y>6</y></position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position><x>2</x><y>1</y></position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position><x>174</x><y>5</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>🌲</value>
+          <font>s19</font>
+          <position><x>10</x><y>3</y></position>
+        </string>
+        <string>
+          <value>🌲</value>
+          <font>s16</font>
+          <position><x>27</x><y>9</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

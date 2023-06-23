@@ -1,0 +1,80 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content id="frontA">
+        <time>4</time>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>1</x><y>0</y></position>
+          <length>199</length>
+        </tape>
+        <string id="frontStrA">
+          <value>BVG-Impfbus</value>
+          <font>t24</font><spacing>2</spacing>
+          <position><x>29</x><y>8</y></position>
+        </string>
+      </content>
+      <content cp="frontA">
+        <string ref="frontStrA">
+          <value>Gelb sieht schwarz</value>
+          <font>t19</font>
+          <position><x>20</x><y>9</y></position>
+        </string>
+      </content>
+      <content cp="frontA">
+        <string ref="frontStrA">
+          <value>Lass dich jetzt impfen!</value>
+          <font>t19</font>
+          <position><x>3</x><y>9</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content id="rightA">
+        <time>4</time>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>1</x><y>-1</y></position>
+          <length>191</length>
+        </tape>
+        <string id="rightStrA">
+          <value>BVG-Impfbus</value>
+          <font>t19</font><spacing>2</spacing>
+          <position><x>38</x><y>6</y></position>
+        </string>
+      </content>
+      <content cp="rightA">
+        <string ref="rightStrA">
+          <value>Gelb sieht schwarz</value>
+          <position><x>16</x><y>7</y></position>
+        </string>
+      </content>
+      <content cp="rightA">
+        <string ref="rightStrA">
+          <value>Lass dich jetzt impfen!</value>
+          <font>t15</font>
+          <position><x>16</x><y>9</y></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>1</x><y>-1</y></position>
+          <length>47</length>
+        </tape>
+        <string>
+          <value>BVG</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>14</x><y>6</y></position>
+        </string>
+        <string>
+          <value>Impfbus</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>3</x><y>17</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

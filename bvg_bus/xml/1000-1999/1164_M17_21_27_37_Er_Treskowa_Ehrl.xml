@@ -1,0 +1,90 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content id="frontA">
+        <time>4</time>
+        <string>
+          <value>M17,21,</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>27,37</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>3</x><y>17</y></position>
+        </string>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>42</x><y>-1</y></position>
+          <length>157</length>
+        </tape>
+        <string id="frontStrA">
+          <value>Replacement service</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>68</x><y>6</y></position>
+        </string>
+        <string>
+          <value>Treskowal./Ehrlichstr.</value>
+          <font>t15</font><spacing>2</spacing>
+          <position><x>43</x><y>17</y></position>
+        </string>
+      </content>
+      <content cp="frontA">
+        <string ref="frontStrA">
+          <value>Ersatzverkehr</value>
+          <position><x>82</x></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content id="sideA">
+        <time>4</time>
+        <string>
+          <value>M17,21,</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>27,37</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>3</x><y>14</y></position>
+        </string>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>45</x><y>-1</y></position>
+          <length>149</length>
+        </tape>
+        <string id="sideStrA">
+          <value>Replacement service</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>66</x><y>4</y></position>
+        </string>
+        <string>
+          <value>Treskowal./Ehrlichstr.</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>52</x><y>15</y></position>
+        </string>
+      </content>
+      <content cp="sideA">
+        <string ref="sideStrA">
+          <value>Ersatzverkehr</value>
+          <position><x>80</x></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>M17,21,</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>6</x><y>0</y></position>
+        </string>
+        <string>
+          <value>27,37</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>9</x><y>14</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

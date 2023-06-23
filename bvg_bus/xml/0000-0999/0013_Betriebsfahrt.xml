@@ -1,100 +1,95 @@
-<?xml version="1.0"?>
-
-<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+<terminus>
   <complex>
-
     <panel size="200x32">
       <content>
+        <time>4</time>
         <inverted>full</inverted>
         <box>
           <outer><x1>0</x1><y1>0</y1><x2>200</x2><y2>32</y2></outer>
-          <inner><x1>8</x1><y1>1</y1><x2>192</x2><y2>31</y2></inner>
+          <inner><x1>10</x1><y1>1</y1><x2>189</x2><y2>31</y2></inner>
         </box>
         <string>
           <value>Betriebsfahrt</value>
-          <font>t32</font>
-          <spacing>3</spacing>
+          <font>t32</font><spacing>3</spacing>
           <position><x>17</x><y>3</y></position>
-          <area><x1>8</x1><y1>1</y1><x2>192</x2><y2>31</y2></area>
+        </string>
+      </content>
+      <content>
+        <time>4</time>
+        <string>
+          <value>Busfahrer*innen gesucht!</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><x>6</x><y>9</y></position>
+        </string>
+      </content>
+      <content>
+        <time>4</time>
+        <string>
+          <value>Mehr dazu unter</value>
+          <font>t12</font><spacing>2</spacing>
+          <position><x>44</x><y>0</y></position>
         </string>
         <string>
-          <value>F</value>
-          <font>l32</font>
-          <position><x>196</x><y>0</y></position>
-          <area><x1>196</x1><y1>0</y1><x2>208</x2><y2>32</y2></area>
+          <value>BVG.de/Karriere</value>
+          <font>t19</font><spacing>2</spacing>
+          <position><x>30</x><y>16</y></position>
         </string>
       </content>
     </panel>
-
     <panel size="192x26">
       <content>
+        <time>4</time>
         <inverted>full</inverted>
         <box>
           <outer><x1>0</x1><y1>0</y1><x2>192</x2><y2>26</y2></outer>
-          <inner><x1>8</x1><y1>1</y1><x2>184</x2><y2>25</y2></inner>
-        </box>
-        <box>
-          <outer><x1>196</x1><y1>25</y1><x2>200</x2><y2>26</y2></outer>
+          <inner><x1>12</x1><y1>1</y1><x2>180</x2><y2>25</y2></inner>
         </box>
         <string>
           <value>Betriebsfahrt</value>
-          <font>t24</font>
-          <spacing>3</spacing>
+          <font>t24</font><spacing>3</spacing>
           <position><x>23</x><y>4</y></position>
-          <area><x1>8</x1><y1>1</y1><x2>184</x2><y2>25</y2></area>
-        </string>
-        <string>
-          <value>E</value>
-          <font>l32</font>
-          <position><x>188</x><y>0</y></position>
-          <area><x1>188</x1><y1>0</y1><x2>200</x2><y2>26</y2></area>
         </string>
       </content>
-    </panel>
-
-    <panel size="144x26">
       <content>
-        <inverted>full</inverted>
-        <box>
-          <outer><x1>0</x1><y1>0</y1><x2>144</x2><y2>26</y2></outer>
-          <inner><x1>8</x1><y1>1</y1><x2>136</x2><y2>25</y2></inner>
-        </box>
-        <box>
-          <outer><x1>148</x1><y1>25</y1><x2>152</x2><y2>26</y2></outer>
-        </box>
+        <time>4</time>
         <string>
-          <value>Betriebsfahrt</value>
-          <font>t19</font>
-          <spacing>2</spacing>
-          <position><x>16</x><y>5</y></position>
-          <area><x1>8</x1><y1>1</y1><x2>136</x2><y2>25</y2></area>
+          <value>Busfahrer*innen gesucht!</value>
+          <font>t15</font><spacing>2</spacing>
+          <position><x>8</x><y>8</y></position>
+        </string>
+      </content>
+      <content>
+        <time>4</time>
+        <string>
+          <value>Mehr dazu unter</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><x>47</x><y>0</y></position>
         </string>
         <string>
-          <value>E</value>
-          <font>l32</font>
-          <position><x>140</x><y>0</y></position>
-          <area><x1>140</x1><y1>0</y1><x2>152</x2><y2>26</y2></area>
+          <value>BVG.de/Karriere</value>
+          <font>t19</font><spacing>2</spacing>
+          <position><x>26</x><y>10</y></position>
         </string>
       </content>
     </panel>
-
     <panel size="48x26">
       <content>
         <inverted>full</inverted>
-        <string>
-          <value>Betriebs-</value>
-          <font>t8</font>
-          <spacing>1</spacing>
-          <position><x>0</x><y>3</y></position>
-        </string>
-        <string>
-          <value>fahrt</value>
-          <font>t8</font>
-          <spacing>1</spacing>
-          <position><x>10</x><y>15</y></position>
-        </string>
+        <animation>
+          <scroll>
+            <string>
+              <value>Betriebsfahrt</value>
+              <font>t12</font><spacing>1</spacing>
+            </string>
+            <area>
+              <x1>0</x1><y1>7</y1><x2>58</x2><y2>19</y2>
+            </area>
+            <speed>32</speed>
+            <start>out</start>
+            <direction>left</direction>
+          </scroll>
+        </animation>
       </content>
     </panel>
-
   </complex>
 </terminus>

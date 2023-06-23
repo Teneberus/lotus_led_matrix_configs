@@ -1,0 +1,43 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content id="front">
+        <time>4</time>
+        <string>
+          <value>cccccc</value>
+          <font>s32</font><spacing>0</spacing>
+          <position><x>0</x><y>0</y></position>
+        </string>
+      </content>
+      <content cp="front">
+        <inverted>full</inverted>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content id="right">
+        <time>4</time>
+        <string>
+          <value>ccccc</value>
+          <font>s26</font><spacing>0</spacing>
+          <position><x>0</x><y>0</y></position>
+        </string>
+      </content>
+      <content cp="right">
+        <inverted>full</inverted>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content id="left">
+        <time>4</time>
+        <string>
+          <value>c</value>
+          <font>s26</font>
+          <position><x>0</x><y>0</y></position>
+        </string>
+      </content>
+      <content cp="left">
+        <inverted>full</inverted>
+      </content>
+    </panel>
+  </complex>
+</terminus>

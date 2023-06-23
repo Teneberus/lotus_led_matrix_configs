@@ -1,0 +1,75 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content id="frontA">
+        <time>4</time>
+        <string>
+          <value>M13,16</value>
+          <font>t32n</font><spacing>1</spacing>
+          <position><x>1</x><y>3</y></position>
+        </string>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>68</x><y>-1</y></position>
+          <length>133</length>
+        </tape>
+        <string id="frontStrA">
+          <value>Replacement service</value>
+          <font>t8</font><spacing>2</spacing>
+          <position><x>72</x><y>6</y></position>
+        </string>
+        <string>
+          <value>S+U Frankfurter Allee</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>67</x><y>17</y></position>
+        </string>
+      </content>
+      <content cp="frontA">
+        <string ref="frontStrA">
+          <value>Ersatzverkehr</value>
+          <position><x>95</x></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content id="sideA">
+        <time>4</time>
+        <string>
+          <value>M13,16</value>
+          <font>t24</font><spacing>1</spacing>
+          <position><x>1</x><y>4</y></position>
+        </string>
+        <tape>
+          <size>3</size><spacing>4</spacing>
+          <position><x>62</x><y>-1</y></position>
+          <length>133</length>
+        </tape>
+        <string id="sideStrA">
+          <value>Replacement service</value>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>73</x><y>4</y></position>
+        </string>
+        <string>
+          <value>S+U Frankfurter Allee</value>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>60</x><y>14</y></position>
+        </string>
+      </content>
+      <content cp="sideA">
+        <string ref="sideStrA">
+          <value>Ersatzverkehr</value>
+          <position><x>88</x></position>
+        </string>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <string>
+          <value>M13,16</value>
+          <font>t15</font><spacing>1</spacing>
+          <position><x>7</x><y>5</y></position>
+        </string>
+      </content>
+    </panel>
+  </complex>
+</terminus>

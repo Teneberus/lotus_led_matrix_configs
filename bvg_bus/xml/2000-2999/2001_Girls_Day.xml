@@ -1,108 +1,66 @@
-<?xml version="1.0"?>
-
-<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+<terminus>
   <complex>
-
     <panel size="200x32">
       <content>
         <string>
           <value>∏</value>
           <font>s26</font>
-          <position>
-            <x>1</x>
-            <y>0</y>
-          </position>
+          <position><x>1</x><y>0</y></position>
         </string>
         <string>
           <value>Girls</value>
-          <font>t32n</font>
-          <spacing>3</spacing>
-          <position>
-            <x>54</x>
-            <y>0</y>
-          </position>
+          <font>t32n</font><spacing>3</spacing>
+          <position><x>54</x><y>0</y></position>
         </string>
         <string>
           <value>Day</value>
-          <font>t32n</font>
-          <spacing>3</spacing>
-          <position>
-            <x>112</x>
-            <y>0</y>
-          </position>
+          <font>t32n</font><spacing>3</spacing>
+          <position><x>112</x><y>0</y></position>
         </string>
         <string>
           <value>❤</value>
           <font>l32</font>
-          <position>
-            <x>164</x>
-            <y>0</y>
-          </position>
+          <position><x>164</x><y>0</y></position>
         </string>
       </content>
     </panel>
-
     <panel size="192x26">
       <content>
         <string>
           <value>∏</value>
           <font>s26</font>
-          <position>
-            <x>0</x>
-            <y>0</y>
-          </position>
+          <position><x>0</x><y>0</y></position>
         </string>
         <string>
           <value>Girls</value>
-          <font>t24</font>
-          <spacing>3</spacing>
-          <position>
-            <x>50</x>
-            <y>2</y>
-          </position>
+          <font>t24</font><spacing>3</spacing>
+          <position><x>50</x><y>2</y></position>
         </string>
         <string>
           <value>Day</value>
-          <font>t24</font>
-          <spacing>3</spacing>
-          <position>
-            <x>104</x>
-            <y>2</y>
-          </position>
+          <font>t24</font><spacing>3</spacing>
+          <position><x>104</x><y>2</y></position>
         </string>
         <string>
           <value>❤</value>
           <font>l26</font>
-          <position>
-            <x>161</x>
-            <y>0</y>
-          </position>
+          <position><x>161</x><y>0</y></position>
         </string>
       </content>
     </panel>
-
     <panel size="48x26">
       <content>
         <string>
           <value>Girls</value>
-          <font>t12</font>
-          <spacing>1</spacing>
-          <position>
-            <x>11</x>
-            <y>0</y>
-          </position>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>11</x><y>0</y></position>
         </string>
         <string>
           <value>Day</value>
-          <font>t12</font>
-          <spacing>1</spacing>
-          <position>
-            <x>13</x>
-            <y>14</y>
-          </position>
+          <font>t12</font><spacing>1</spacing>
+          <position><x>13</x><y>14</y></position>
         </string>
       </content>
     </panel>
-
   </complex>
 </terminus>

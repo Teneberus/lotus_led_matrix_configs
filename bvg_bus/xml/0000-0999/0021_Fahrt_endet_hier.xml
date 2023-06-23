@@ -1,23 +1,16 @@
-<?xml version="1.0"?>
-
-<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+<terminus>
   <complex>
 
     <panel size="200x32">
       <content>
         <inverted>full</inverted>
-        <box><outer><x1>44</x1><y1>0</y1><x2>205</x2><y2>2</y2></outer></box>
-        <box><outer><x1>206</x1><y1>0</y1><x2>211</x2><y2>2</y2></outer></box>
-        <box><outer><x1>212</x1><y1>0</y1><x2>213</x2><y2>2</y2></outer></box>
-        <box><outer><x1>44</x1><y1>30</y1><x2>197</x2><y2>32</y2></outer></box>
-        <string>
-          <value>L</value><font>l32</font>
-          <position><x>197</x><y>0</y></position>
-        </string>
+        <box><outer><x1>41</x1><y1>0</y1><x2>196</x2><y2>2</y2></outer></box>
+        <box><outer><x1>196</x1><y1>0</y1><x2>213</x2><y2>32</y2></outer></box>
+        <box><outer><x1>41</x1><y1>30</y1><x2>196</x2><y2>32</y2></outer></box>
         <string>
           <value>Fahrt endet hier</value>
           <font>t24</font><spacing>1</spacing>
-          <position><x>47</x><y>6</y></position>
+          <position><x>48</x><y>6</y></position>
         </string>
       </content>
     </panel>
@@ -25,33 +18,13 @@
     <panel size="192x26">
       <content>
         <inverted>full</inverted>
-        <box><outer><x1>44</x1><y1>0</y1><x2>190</x2><y2>2</y2></outer></box>
-        <box><outer><x1>44</x1><y1>24</y1><x2>190</x2><y2>26</y2></outer></box>
-        <string>
-          <value>L</value><font>l26</font>
-          <position><x>190</x><y>0</y></position>
-        </string>
+        <box><outer><x1>44</x1><y1>0</y1><x2>189</x2><y2>2</y2></outer></box>
+        <box><outer><x1>189</x1><y1>0</y1><x2>205</x2><y2>26</y2></outer></box>
+        <box><outer><x1>44</x1><y1>24</y1><x2>189</x2><y2>26</y2></outer></box>
         <string>
           <value>Fahrt endet hier</value>
           <font>t19</font><spacing>2</spacing>
           <position><x>49</x><y>5</y></position>
-        </string>
-      </content>
-    </panel>
-
-    <panel size="144x26">
-      <content>
-        <inverted>full</inverted>
-        <box><outer><x1>44</x1><y1>0</y1><x2>142</x2><y2>2</y2></outer></box>
-        <box><outer><x1>44</x1><y1>24</y1><x2>142</x2><y2>26</y2></outer></box>
-        <string>
-          <value>L</value><font>l26</font>
-          <position><x>142</x><y>0</y></position>
-        </string>
-        <string>
-          <value>Fahrt endet hier</value>
-          <font>t15</font><spacing>1</spacing>
-          <position><x>44</x><y>6</y></position>
         </string>
       </content>
     </panel>

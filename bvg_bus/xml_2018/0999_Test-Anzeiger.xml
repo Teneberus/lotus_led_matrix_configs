@@ -1,166 +1,135 @@
-<?xml version="1.0"?>
-
-<terminus xmlns="TeneberusLEDMatrix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="TeneberusLEDMatrix terminus.xsd">
+<terminus>
   <complex>
     <panel size="200x32" count="1">
       <content>
-        <time>2</time>
+        <time>4</time>
         <string>
           <value>Front 32 x 200</value>
-          <font>t8</font>
-          <spacing>1</spacing>
-          <position><halign>center</halign><valign>top</valign></position>
-          <area><x1>2</x1><y1>0</y1><x2>200</x2><y2>8</y2></area>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>62</x><y>0</y></position>
         </string>
         <string>
           <value>1</value>
           <font>t24</font>
-          <spacing>1</spacing>
-          <position><halign>center</halign><y>9</y></position>
-          <area><x1>0</x1><x2>199</x2></area>
+          <position><x>97</x><y>9</y></position>
         </string>
         <string>
           <value>VDV301</value>
-          <font>sys08</font>
-          <spacing>1</spacing>
-          <position><x>169</x><y>24</y></position>
+          <font>t8_4</font><spacing>1</spacing>
+          <position><x>170</x><y>24</y></position>
         </string>
       </content>
       <content>
-        <time>2</time>
+        <time>4</time>
+        <inverted>full</inverted>
         <string>
           <value>VDV301</value>
-          <font>t8</font>
-          <spacing>1</spacing>
+          <font>t8</font><spacing>1</spacing>
           <position><x>1</x><y>6</y></position>
         </string>
         <string>
           <value>ab 2018</value>
-          <font>t8</font>
-          <spacing>1</spacing>
+          <font>t8</font><spacing>1</spacing>
           <position><x>0</x><y>18</y></position>
         </string>
         <string>
-          <value>Stand 07.02.2020</value>
-          <font>t19</font>
-          <spacing>1</spacing>
-          <position><halign>center</halign><valign>middle</valign></position>
-          <area><x1>41</x1><y1>0</y1><x2>199</x2><y2>31</y2></area>
+          <value>Stand 18.01.2023</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><halign>center</halign><y>8</y></position>
+          <area><x1>41</x1><y1>0</y1><x2>200</x2><y2>32</y2></area>
         </string>
+      </content>
+      <content id="filled">
+        <time>4</time>
         <inverted>full</inverted>
       </content>
-      <content>
-        <time>2</time>
-        <inverted>full</inverted>
-      </content>
-      <content id="2s_checkerboard">
-        <time>2</time>
-        <!-- Schachbrett -->
+      <content id="checkerboard">
+        <time>4</time>
         <checkerboard />
       </content>
-      <content id="2s_checkerboard_inverted">
-        <time>2</time>
-        <!-- inv. Schachbrett -->
-        <checkerboard><inverted>true</inverted></checkerboard>
+      <content id="checkerboard_inverted">
+        <time>4</time>
+        <inverted>full</inverted>
+        <checkerboard />
       </content>
-      <content id="2s_empty">
-        <time>2</time>
+      <content id="empty">
+        <time>4</time>
       </content>
     </panel>
-
     <panel size="192x26" count="2">
-      <content id="999_192x26_1">
-        <time>2</time>
-        <string id="999_strseiteA">
+      <content id="192x26_1">
+        <time>4</time>
+        <string id="strseiteA">
           <value>Seite rechts 26 x 192</value>
-          <font>t8</font>
-          <spacing>1</spacing>
-          <position><halign>center</halign><valign>top</valign></position>
-          <area><x1>0</x1><y1>0</y1><x2>191</x2><y2>8</y2></area>
+          <font>t8</font><spacing>1</spacing>
+          <position><x>40</x><y>0</y></position>
         </string>
-        <string id="999_strseiteB">
+        <string id="strseiteB">
           <value>2</value>
           <font>t24</font>
-          <spacing>1</spacing>
-          <position><halign>center</halign><y>7</y></position>
-          <area><x1>0</x1><x2>191</x2></area>
+          <position><x>90</x><y>7</y></position>
         </string>
         <string>
           <value>VDV301</value>
-          <font>sys08</font>
-          <spacing>1</spacing>
-          <position><halign>right</halign><y>18</y></position>
-          <area><x1>0</x1><x2>192</x2></area>
+          <font>t8_4</font><spacing>1</spacing>
+          <position><x>162</x><y>19</y></position>
         </string>
       </content>
-      <content id="999_192x26_2">
-        <time>2</time>
+      <content id="192x26_2">
+        <time>4</time>
+        <inverted>full</inverted>
         <string>
           <value>VDV301</value>
-          <font>t8</font>
-          <spacing>1</spacing>
+          <font>t8</font><spacing>1</spacing>
           <position><x>3</x><y>4</y></position>
         </string>
         <string>
           <value>ab 2018</value>
-          <font>t8</font>
-          <spacing>1</spacing>
+          <font>t8</font><spacing>1</spacing>
           <position><x>1</x><y>15</y></position>
         </string>
         <string>
-          <value>Stand 07.02.2020</value>
-          <font>t19</font>
-          <spacing>1</spacing>
-          <position><halign>center</halign><valign>middle</valign></position>
-          <area><x1>43</x1><y1>0</y1><x2>192</x2><y2>26</y2></area>
+          <value>Stand 18.01.2023</value>
+          <font>t19</font><spacing>1</spacing>
+          <position><halign>center</halign><y>5</y></position>
+          <area><x1>45</x1><y1>0</y1><x2>192</x2><y2>26</y2></area>
         </string>
-        <inverted>full</inverted>
       </content>
-      <content id="999_192x26_3">
-        <time>2</time>
-        <inverted>full</inverted>
-      </content>
-      <content cp="2s_checkerboard" />
-      <content cp="2s_checkerboard_inverted" />
-      <content cp="2s_empty" />
+      <content cp="filled" />
+      <content cp="checkerboard" />
+      <content cp="checkerboard_inverted" />
+      <content cp="empty" />
     </panel>
-
     <panel size="192x26" count="3">
-      <content cp="999_192x26_1">
-        <string ref="999_strseiteA"><value>Heck 26 x 192</value></string>
-        <string ref="999_strseiteB"><value>3</value></string>
+      <content cp="192x26_1">
+        <string ref="strseiteA"><value>Heck 26 x 192</value><position><x>60</x></position></string>
+        <string ref="strseiteB"><value>3</value></string>
       </content>
-      <content cp="999_192x26_2"></content>
-      <content cp="999_192x26_3"></content>
-      <content cp="2s_checkerboard" />
-      <content cp="2s_checkerboard_inverted" />
-      <content cp="2s_empty" />
+      <content cp="192x26_2"></content>
+      <content cp="filled" />
+      <content cp="checkerboard" />
+      <content cp="checkerboard_inverted" />
+      <content cp="empty" />
     </panel>
-
-    <panel size="48x26" count="3">
-      <content id="999_48x26_1">
-        <time>2</time>
-        <string id="999_strlinieA"><value>heck 26x46</value><font>sys08</font><spacing>1</spacing><position><x>1</x><y>0</y></position></string>
-        <string id="999_strlinieB"><value>3</value><font>t24</font><position><x>19</x><y>7</y></position></string>
-      </content>
-      <content id="999_48x26_2">
-        <time>4</time>
-        <inverted>full</inverted>
-      </content>
-      <content cp="2s_checkerboard" />
-      <content cp="2s_checkerboard_inverted" />
-      <content cp="2s_empty" />
-    </panel>
-
     <panel size="48x26" count="4">
-      <content cp="999_48x26_1">
-        <string ref="999_strlinieA"><value>links 26x46</value></string>
-        <string ref="999_strlinieB"><value>4</value></string>
+      <content>
+        <time>4</time>
+        <string>
+          <value>links 26x46</value>
+          <font>t8_4</font><spacing>1</spacing>
+          <position><x>1</x><y>0</y></position>
+        </string>
+        <string>
+          <value>4</value>
+          <font>t24</font>
+          <position><x>19</x><y>7</y></position>
+        </string>
       </content>
-      <content cp="999_48x26_2"></content>
-      <content cp="2s_checkerboard" />
-      <content cp="2s_checkerboard_inverted" />
-      <content cp="2s_empty" />
+      <content cp="filled" />
+      <content cp="filled" />
+      <content cp="checkerboard" />
+      <content cp="checkerboard_inverted" />
+      <content cp="empty" />
     </panel>
   </complex>
 </terminus>

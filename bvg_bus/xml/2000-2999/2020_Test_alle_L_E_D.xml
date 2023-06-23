@@ -1,0 +1,19 @@
+<terminus>
+  <complex>
+    <panel size="200x32">
+      <content>
+        <inverted>full</inverted>
+      </content>
+    </panel>
+    <panel size="192x26">
+      <content>
+        <inverted>full</inverted>
+      </content>
+    </panel>
+    <panel size="48x26">
+      <content>
+        <inverted>full</inverted>
+      </content>
+    </panel>
+  </complex>
+</terminus>
