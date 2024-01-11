@@ -83,7 +83,7 @@ If you want the 26x48 panels to match the one, that is written for that, it need
 | content | integer | | match | The content of the panel to which these settings should be applied. If it is not set, it will always match.<br>0: line, 1: line,terminus, 2: terminus |
 | type | integer | | match | The type of the panel to which these settings should be applied. If it is not set, it will always match.<br>3: LED white or amber, 4: Panel with RGB line module |
 | count | integer | | match | The count or slot position (see [settings] parameter count_is_id) of the panel to which these settings should be applied. If it is not set, it will always match. |
-| main_size | string | | match | Only apply these settings if the main module has this size.<br>The size is given as "\<height>x\<width>" without leading zeros (e.g. "32x240"). If it is not set, it will always match. |
+| main_size | string | | match | Only apply these settings if the main module has this size.<br>The size is given as "\<width>x\<height>" without leading zeros (e.g. "240x32"). If it is not set, it will always match. |
 | line_mode | integer | 0 | setting | 0: Line gets the space it needs, rest is terminus<br>1: Fixed area for line (and terminus)<br>2: Like fixed but expanded (and terminus reduced) if line does not fit inside |
 | line_width | integer | 0 | setting | Width of line.<br>If line mode is 0 it sets the maximum width of the line which is used to select the font and spacing, so it should be set anyway in that case. Otherwise the panel would always use the smallest available line font with its default spacing (or with minimum spacing if line_stretch is true). |
 | line_align | string | "left" | setting | Alignment of line inside the defined area.<br>If it is set to anything else than "left" while line mode is set to 0, the line mode will be overwritten with 1.|
@@ -117,12 +117,12 @@ If you want the 26x48 panels to match the one, that is written for that, it need
 | content | integer | | match | The content of the panel to which these settings should be applied. If it is not set, it will always match.<br>0: line, 1: line,terminus, 2: terminus |
 | type | integer | | match | The type of the panel to which these settings should be applied. If it is not set, it will always match.<br>3: LED Mono, 4: Panel with RGB line module |
 | count | integer | | match | The count or slot position (see [settings] parameter count_is_id) of the panel to which these settings should be applied. If it is not set, it will always match. |
-| main_size | string | | match | Only apply these settings if the main module has this size.<br>The size is given as "\<height>x\<width>" without leading zeros (e.g. "32x240"). If it is not set, it will always match. |
+| main_size | string | | match | Only apply these settings if the main module has this size.<br>The size is given as "\<width>x\<height>" without leading zeros (e.g. "240x32"). If it is not set, it will always match. |
 | line | string | | setting | Comma separated list of font names from large to small. |
-| terminus1 | string | | setting | Comma separated list of font names from large to small it the terminus has only one line. |
-| terminus2 | string | | setting | Comma separated list of font names from large to small it the terminus has two lines. |
-| terminus2_small | string | | setting | Comma separated list of font names from large to small it the terminus has two lines and one of them is smaller.<br>This is the list for the smaller one. |
-| terminus2_large | string | | setting | Comma separated list of font names from large to small it the terminus has two lines and one of them is smaller.<br>This is the list for the larger one. |
+| terminus1 | string | | setting | Comma separated list of font names from large to small if the terminus has only one line. |
+| terminus2 | string | | setting | Comma separated list of font names from large to small if the terminus has two lines. |
+| terminus2_small | string | | setting | Comma separated list of font names from large to small if the terminus has two lines and one of them is smaller.<br>This is the list for the smaller one. |
+| terminus2_large | string | | setting | Comma separated list of font names from large to small if the terminus has two lines and one of them is smaller.<br>This is the list for the larger one. |
 
 ## [auto_format:regex]
 
